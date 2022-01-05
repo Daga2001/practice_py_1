@@ -35,3 +35,7 @@ number = 0
 
 while(number < 3):
     print("Hola!")
+    number += 1
+
+# numero += 1
+# numero = numero + 1
